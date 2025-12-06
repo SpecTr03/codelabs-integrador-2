@@ -1,0 +1,4 @@
+Imagen,Tiempo SSD,Tiempo YOLO,Objetos SSD,Objetos YOLO,IoU Medio
+chilena.jpg,0.2812s,0.1652s,2,6,0.8234
+galaxia-andromeda.jpg,0.7070s,0.5106s,0,0,0.0000
+metallica.jpeg,0.2669s,0.0785s,4,4,0.8710
